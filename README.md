@@ -4,9 +4,7 @@
   <title>自我介紹</title>
   <style>
     body {
-  font-family: Arial, sans-serif;
-  background-color: #F5F5F5;
-  color: #555;
+  background: linear-gradient(to bottom, #f2f2f2, #ffffff);
 }
 
 h1 {
