@@ -15,6 +15,12 @@ h1 {
   margin-bottom: 20px;
 }
 
+h2 {
+  color: #007bff;
+  font-size: 28px;
+  margin-bottom: 20px;
+}
+
 p {
   font-size: 16px;
   line-height: 1.5;
