@@ -32,7 +32,7 @@
 
   <section>
     <h2>聯絡我</h2>
-    <li><a href="">E-mail:liuegeg1919@gmail.com</a></li>
+    <li><a href="">E-mail:___</a></li>
   </section>
 
   <footer>
