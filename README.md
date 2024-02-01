@@ -54,7 +54,8 @@ section {
     <ul>
       <li>1.看漫畫&動漫</li>
       <li>2.打排球(菜)</li>
-      <li>3.</li>
+      <li>3.經濟</li>
+      <li>4.各類科技</li>
     </ul>
   </section>
 
