@@ -4,7 +4,7 @@
   <title>自我介紹</title>
   <style>
     body {
-  background: linear-gradient(to bottom, #f2f2f2, #ffffff);
+  background: linear-gradient(to bottom, #B0E0E6, #F0F8FF);
 }
 
 h1 {
