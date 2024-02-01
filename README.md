@@ -5,8 +5,8 @@
   <style>
     body {
   font-family: Arial, sans-serif;
-  background-color: #f2f2f2;
-  color: #333;
+  background-color: #f5f5f5;
+  color: #555;
 }
 
 h1 {
