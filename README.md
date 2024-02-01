@@ -19,6 +19,10 @@ h2 {
   margin-bottom: 20px;
 }
 
+hr {
+  border: 1px dashed black;
+}
+
 p {
   font-size: 16px;
   line-height: 1.5;
