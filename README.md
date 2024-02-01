@@ -3,7 +3,35 @@
 <head>
   <title>自我介紹</title>
   <style>
-    /* 在這裡寫你的 CSS 樣式，用於美化網頁的外觀 */
+    body {
+  font-family: Arial, sans-serif;
+  background-color: #f2f2f2;
+  color: #333;
+}
+
+h1 {
+  color: #007bff;
+  font-size: 28px;
+  margin-bottom: 20px;
+}
+
+p {
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+section {
+  margin-bottom: 40px;
+}
   </style>
 </head>
 <body>
@@ -32,8 +60,8 @@
   </section>
 
   <section>
-    <h2>聯絡我</h2>
-    <li><a href="">E-mail:___</a></li>
+    <h2>聯絡我Der方法</h2>
+    <li><a href="">E-mail:_________</a></li>
   </section>
 
   <footer>
