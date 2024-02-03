@@ -67,7 +67,7 @@ section {
 
   <section>
     <h2>聯絡我Der方法</h2>
-    <li><a href="">E-mail:_________</a></li>
+    <li><a href="liuegeg1919@gmail.com">E-mail:liuegeg1919@gmail.com</a></li>
   </section>
 
   <footer>
